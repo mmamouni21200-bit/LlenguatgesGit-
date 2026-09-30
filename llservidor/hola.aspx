@@ -1,1 +1,1 @@
-<%@ Page Language="C#" %><% Response.Write("Hola, Ramis!"); %>
+<%@ Page Language="C#" %><% Response.Write("Hola, Menorca!"); %>
